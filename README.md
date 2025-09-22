@@ -26,4 +26,6 @@ YouTube embed integration
 
 🎯 Purpose
 
-This project was built to practice HTML multimedia tags (<audio>, <video>, <iframe>, <img>), semantic elements, and basic webpage design. It serves as a beginner-friendly portfolio piece demonstrating my web development skills.
+This project was built to practice HTML multimedia tags
+(<audio>, <video>, <iframe>, <img>), semantic elements, and basic webpage design. 
+It serves as a beginner-friendly portfolio piece demonstrating my web development skills.
